@@ -8,7 +8,7 @@ Documentation:
 Ensure well-documented code for effective collaboration.
 
 Testing:
-Thorougly test your changes before submitting a pull request.
+Thoroughly test your changes before submitting a pull request.
 
 Issue Tracker:
 Check the Issue Tracker for tasks.
